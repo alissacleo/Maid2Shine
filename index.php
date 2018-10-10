@@ -194,7 +194,7 @@
 			<h2>Regular Domestic Cleaning</h2>
 			<p>How It Works</p>
 			<p>Schedule our staff to clean your home on a regular basis to keep it sparkling!  Set up an appointment on a weekly, fortnightly or monthly basis.  Regular, thorough cleaning will increase the longevity of your house, improve your health, and make your home an even more enjoyable and welcoming place to be.</p>
-			<img src="images/cards.png" width="350px" alt="maid 2 shine accepts card and paypal payments">
+			<img src="images/cards.png" width="250px" alt="maid 2 shine accepts card and paypal payments">
 			<p>To make keeping your home spotless even easier, you can establish a method of entry and set up direct debit payments.  Our staff can clean while you get on with your day.  You'll come home to a beautiful home and an email receipt.  No fuss, no hassle, no mess!</p>
 			<a href="https://clienthub.getjobber.com/client_hubs/dc36f32e-0ba4-495c-99ca-3da87e5688d8/public/work_request/new" target="_blank" rel="noopener" class="cta">Get Regular Cleaning!</a>
 		</div>
