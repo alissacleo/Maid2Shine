@@ -8,7 +8,7 @@
 
 	
 
-	<title>Maid 2 Shine Cleaning Services | Port Hedland Western Australia</title>
+	<title>Maid 2 Shine Cleaning Solutions | Port Hedland Western Australia</title>
 
 	<link rel="canonical" href="http://maid2shine.com.au" itemprop="url">
 
@@ -129,7 +129,7 @@
 
 	<div class="block white">
 		<div class="container">
-			<p>We are a locally owned and operated cleaning company.  Our staff is reliable, trustworthy, loyal and hard working.  We will concentrate on what is important to you and can adjust our hours to suit your requirements.</p>
+			<p>Maid 2 Shine Cleaning Solutions is a locally owned and operated cleaning company.  Our staff is reliable, trustworthy, loyal and hard working.  We will concentrate on what is important to you and can adjust our hours to suit your requirements.</p>
 			 
 			<p><em>We give that little bit extra in cleaning!</em></p>
 
@@ -141,13 +141,17 @@
 				</ul> -->
 			<div class="flex flexMd">
 				<div class="card third">
+					<h3>Corona Virus Cleaning</h3>
+					<p>We can disinfect homes and offices to prevent the spread of infectious diseases including COVID-1.</p>
+				</div>
+				<div class="card third">
 					<h3>Tile and Grout Cleaning</h3>
 					<p>Your tiles CAN be clean enough to eat off of them (although we do not recommend this)</p>
 				</div>
-				<div class="card third">
+				<!-- <div class="card third">
 					<h3>Carpet Steam Cleaning</h3>
 					<p>High powered, quality carpet and rug cleaning.  We also steam clean couches and lounges, carpeted stairs, and matresses.</p>
-				</div>
+				</div> -->
 				<div class="card third">
 					<h3>Gardening and Yard Cleaning</h3>
 					<p>Gardening, lawn mowing, weeding, skip bins and rubbish removal</p>
