@@ -12,7 +12,7 @@
 		}
 	?>
 	
-	<title>Maid 2 Shine Cleaning Services | Port Hedland Western Australia</title>
+	<title>Maid 2 Shine Cleaning Solutions | Port Hedland Western Australia</title>
 
 	<link rel="canonical" href="http://maid2shine.com.au/contact.php" itemprop="url">
 
@@ -22,7 +22,7 @@
 <?php include 'header.html'; ?>
 
 	<div class="container">
-		<h1>Maid 2 Shine</h1>
+		<h1>Maid 2 Shine Cleaning Solutions</h1>
 		<h2>Port Hedland Western Australia</h2>
 		<h3 id="cForm">Contact Us</h3>
 		
@@ -98,7 +98,7 @@
 		</div>
 	</div>
 
-	<?php include 'footer.html'; ?>
+	<?php include 'footer.php'; ?>
 	
 
 

@@ -270,7 +270,7 @@
 		</div>
 	</div>
 
-	<?php include 'footer.html'; ?>
+	<?php include 'footer.php'; ?>
 	
 	<!-- <script type="text/javascript" src="siema.min.js"></script>
 

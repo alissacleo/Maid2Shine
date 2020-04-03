@@ -6,7 +6,7 @@
 
 	<?php include 'head.html'; ?>
 
-	<title>Maid 2 Shine Cleaning Services | Port Hedland Western Australia</title>
+	<title>Maid 2 Shine Cleaning Solutions | Port Hedland Western Australia</title>
 
 	<link rel="canonical" href="http://maid2shine.com.au/services" itemprop="url">
 
@@ -31,7 +31,7 @@
 <?php include 'header.html'; ?>
 
 	<div class="container">
-		<h1>Maid 2 Shine Services</h1>
+		<h1>Maid 2 Shine Solutions</h1>
 		<h2>Let us take a bite out of your grime</h2>
 		<p><a href="contact.php">Contact us</a> to <a href="https://clienthub.getjobber.com/client_hubs/dc36f32e-0ba4-495c-99ca-3da87e5688d8/public/work_request/new" target="_blank" rel="noopener">get a quote</a> for your cleaning needs</p>
 
@@ -222,7 +222,7 @@
 	</div>
 
 
-	<?php include 'footer.html'; ?>
+	<?php include 'footer.php'; ?>
 
 	<script type="text/javascript" src="siema.min.js"></script>
 
